@@ -6,7 +6,7 @@
   
   3. Fuentes utilizadas:
       - [R-Bloggers](https://www.r-bloggers.com/)
-      - [R para Principiantes](https://bookdown.org/jboscomendoza/r-principia         ntes4/if-else.html)
+      - [R para Principiantes](https://bookdown.org/jboscomendoza/r-principiantes4/if-else.html)
   
   4. Link del repositorio en GitHub:
      [Dia_42_27abril](https://github.com/dvillaunal/Dia_42_27abril)
