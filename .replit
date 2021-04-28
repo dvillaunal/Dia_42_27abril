@@ -1,0 +1,2 @@
+language = "rlang" # optional
+run = "r main.r"
