@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Profe No se si subir los anteriores replit, es decir el 40 y el 41, ya que estan ahí??
-
-
-le parece indicado que los suba??
-=======
 Profe No se si subir los anteriores replit, es decir el 40 y el 41, ya que estan ahí??
 
 
@@ -14,4 +8,3 @@ le parece indicado que los suba??
 ademas descubri como correr otros archivos, que no sea main
 
 visite ".replit"
->>>>>>> 29b9a35463f4b464efa1b75fb3bac9bf9441ac40
