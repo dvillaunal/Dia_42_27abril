@@ -2,3 +2,9 @@ Profe No se si subir los anteriores replit, es decir el 40 y el 41, ya que estan
 
 
 le parece indicado que los suba??
+
+
+
+ademas descubri como correr otros archivos, que no sea main
+
+visite ".replit"
