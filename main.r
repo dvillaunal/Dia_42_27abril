@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 "* ___Protocolo:___
 
 1. Lenguaje utilizado: R
@@ -173,7 +171,6 @@ resultado = switch (v,
   "p" = cat("potencia =", n1 ^ n2),
   )
 
-=======
 
 "* ___Protocolo:___
 
@@ -347,5 +344,3 @@ resultado = switch (v,
   "r" = cat("residuo =", n1 %% n2),
   "p" = cat("potencia =", n1 ^ n2),
   )
-
->>>>>>> 29b9a35463f4b464efa1b75fb3bac9bf9441ac40
